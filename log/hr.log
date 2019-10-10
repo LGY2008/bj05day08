@@ -1,0 +1,32 @@
+2019-10-10 17:07:00,528 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<api.api_login.ApiLogin object at 0x0304F890>
+2019-10-10 17:07:52,948 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<api.api_login.ApiLogin object at 0x0306F8B0>
+2019-10-10 17:12:20,468 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<api.api_login.ApiLogin object at 0x02E2E870>
+2019-10-10 17:12:20,468 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2019-10-10 17:12:20,499 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2019-10-10 17:12:20,499 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2019-10-10 17:13:09,514 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<api.api_login.ApiLogin object at 0x0307F8B0>
+2019-10-10 17:13:09,515 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2019-10-10 17:13:09,545 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2019-10-10 17:13:09,546 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2019-10-10 17:14:03,874 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<api.api_login.ApiLogin object at 0x02E0F870>
+2019-10-10 17:14:03,875 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2019-10-10 17:14:03,904 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2019-10-10 17:14:03,904 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2019-10-10 17:15:57,262 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<api.api_login.ApiLogin object at 0x0304F890>
+2019-10-10 17:15:57,262 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2019-10-10 17:15:57,291 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2019-10-10 17:15:57,293 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2019-10-10 17:15:57,293 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2019-10-10 17:15:57,325 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2019-10-10 17:15:57,354 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2019-10-10 17:15:57,378 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2019-10-10 17:15:57,417 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2019-10-10 17:19:12,968 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<api.api_login.ApiLogin object at 0x0304F850>
+2019-10-10 17:19:12,969 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2019-10-10 17:19:13,000 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2019-10-10 17:19:13,001 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2019-10-10 17:19:13,001 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2019-10-10 17:19:13,026 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2019-10-10 17:19:13,062 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2019-10-10 17:19:13,086 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2019-10-10 17:19:13,114 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
